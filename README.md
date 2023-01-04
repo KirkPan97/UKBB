@@ -3,8 +3,8 @@
 
 ### 1. 软件和网络要求
   推荐使用 Github Desktop 软件进行操作，相比使用 Git 命令操作有更好的交互性。  
-  Github Desktop 软件下载：https://desktop.github.com/
-    
+  Github Desktop 软件下载：https://desktop.github.com/   
+  传输不稳定时需借助VPN。
     
 ### 2. 关联本地仓库
   打开 Github Dsktop 软件，依次选择 File -> Clone repository；  
