@@ -8,7 +8,9 @@
   
 #### 2. 创建本地仓库
   打开 Github Dsktop 软件，依次选择 File -> Clone repository
-  <img width="382" alt="image" src="https://user-images.githubusercontent.com/102509476/210510657-999ddd75-c847-4302-9443-7b3e11d30994.png">
+  
+  <img width="381" alt="image" src="https://user-images.githubusercontent.com/102509476/210510974-27df51e6-c63b-4e80-8ba8-76b2e16474eb.png">
+
 
   
 #### 3. 文件上传（push）
