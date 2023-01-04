@@ -5,12 +5,14 @@
   推荐使用 Github Desktop 软件进行操作，相比使用 Git 命令操作有更好的交互性。  
   Github Desktop 软件下载：https://desktop.github.com/
     
+    
 ### 2. 关联本地仓库
   打开 Github Dsktop 软件，依次选择 File -> Clone repository；  
   选择Github.com选项卡，在第一个地址栏填写本仓库网址（https://github.com/KirkPan97/UKBB/ ） 、在Local path地址栏填写本地仓库存放地址；
   
   <img width="381" alt="image" src="https://user-images.githubusercontent.com/102509476/210510974-27df51e6-c63b-4e80-8ba8-76b2e16474eb.png">
   点击Clone按钮即可将仓库内容同步到本地。
+
 
 ### 3. 文件上传（push）
   由于本项目参与者不涉及共同开发，统一使用master分支上传文件，需要确认Github网页和Desktop软件对应位置选择的是master分支；
@@ -28,11 +30,12 @@
   
   <img width="536" alt="image" src="https://user-images.githubusercontent.com/102509476/210518189-733a8e12-bee2-4ef7-8e68-c6dfacf60eaf.png">  
   即可将修改更新至网站仓库，同时留下修改记录。
-
   
 #### 3.2 网页端修改
   可以使用仓库主页的 Add file 按钮在网页端新建文件或将本地文件拖拽上传；
-  在网页端直接修改文件。
+  在网页端直接修改文件；
+  所有在网页端的修改均需要填写修改的内容以及描述，之后点击 Commit Changes 绿色按钮提交。
+
 
 ### 4. 文件下载（pull）
   在 Github Desktop 页面点击 Fetch origin 按钮以刷新查看仓库内容有无更新； 
