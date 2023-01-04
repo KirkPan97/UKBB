@@ -20,9 +20,15 @@
   <img width="563" alt="image" src="https://user-images.githubusercontent.com/102509476/210515407-da8b9eb8-45b6-42ea-a4d3-8126a585debd.png">
 
 #### 3.1 本地修改
-  在本地创建或修改文件后，Github Desktop 中将自动出现修改内容，可在页面左下角填写本次修改的主要内容和描述，点击 Commit to master 即可将修改更新至网站仓库，同时留下修改记录。
+  在本地创建或修改文件后，Github Desktop 中将自动出现修改内容，可在页面左下角填写本次修改的主要内容和描述，点击 Commit to master；
   
   <img width="189" alt="image" src="https://user-images.githubusercontent.com/102509476/210513423-31199c1f-cb05-42dd-b6a2-71a112fa08e0.png">  
+  <img width="534" alt="image" src="https://user-images.githubusercontent.com/102509476/210517058-da73adc7-443a-4f42-ad05-4b1b3012a779.png">
+  页面上方 Fetch origin 按钮变为 Push origin 并伴有向上箭头，主页面出现蓝色对话框提示将本地更新内容上推至网页。
+  
+  <img width="536" alt="image" src="https://user-images.githubusercontent.com/102509476/210518189-733a8e12-bee2-4ef7-8e68-c6dfacf60eaf.png">  
+  即可将修改更新至网站仓库，同时留下修改记录。
+
   
 #### 3.2 网页端修改
   可以使用仓库主页的 Add file 按钮在网页端新建文件或将本地文件拖拽上传；
