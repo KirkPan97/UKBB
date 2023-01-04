@@ -17,12 +17,14 @@
   协作者无论在本地还是网站，应只修改自己文件夹中的内容，避免更改他人代码或造成版本冲突。
   
   <img width="896" alt="image" src="https://user-images.githubusercontent.com/102509476/210514328-fdd7bd71-2be0-44fb-931a-0ce45113b132.png">
-  <img width="568" alt="image" src="https://user-images.githubusercontent.com/102509476/210514027-f525e018-4b3e-4080-99a0-9c446a01d4e9.png">
+  <img width="563" alt="image" src="https://user-images.githubusercontent.com/102509476/210515407-da8b9eb8-45b6-42ea-a4d3-8126a585debd.png">
 
 #### 3.1 本地修改
-  在本地创建或修改文件后，Github Desktop 中将自动出现修改内容，可在页面左下角填写本次修改的主要内容和描述，点击 Commit to master 
+  在本地创建或修改文件后，Github Desktop 中将自动出现修改内容，可在页面左下角填写本次修改的主要内容和描述，点击 Commit to master 即可将修改更新至网站仓库，同时留下修改记录。
   
-  <img width="189" alt="image" src="https://user-images.githubusercontent.com/102509476/210513423-31199c1f-cb05-42dd-b6a2-71a112fa08e0.png">
+  <img width="189" alt="image" src="https://user-images.githubusercontent.com/102509476/210513423-31199c1f-cb05-42dd-b6a2-71a112fa08e0.png">  
+  
+  同时可以使用仓库主页的
 
 
 ### 4. 文件下载（pull）
