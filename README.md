@@ -29,5 +29,11 @@
   在网页端直接修改文件。
 
 ### 4. 文件下载（pull）
-  在 Github Desktop 页面点击 Fetch origin 按钮以刷新查看仓库内容有无更新；
-  在线上仓库内容发生变动的情况下，刷新后
+  在 Github Desktop 页面点击 Fetch origin 按钮以刷新查看仓库内容有无更新； 
+  <img width="534" alt="image" src="https://user-images.githubusercontent.com/102509476/210517058-da73adc7-443a-4f42-ad05-4b1b3012a779.png">
+
+  在线上仓库内容发生变动的情况下，Fetch origin 按钮变为 Pull origin 并伴有向下箭头，主页面也出现蓝色对话框，提示将更新内容下拉至本地。 
+
+  <img width="534" alt="image" src="https://user-images.githubusercontent.com/102509476/210517128-581b7e83-045b-4666-8a49-9a4ed7152682.png">  
+  点击 Pull origin 即可完成下载。
+
