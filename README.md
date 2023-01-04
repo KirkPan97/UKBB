@@ -24,7 +24,10 @@
   
   <img width="189" alt="image" src="https://user-images.githubusercontent.com/102509476/210513423-31199c1f-cb05-42dd-b6a2-71a112fa08e0.png">  
   
-  同时可以使用仓库主页的
-
+#### 3.2 网页端修改
+  可以使用仓库主页的 Add file 按钮在网页端新建文件或将本地文件拖拽上传；
+  在网页端直接修改文件。
 
 ### 4. 文件下载（pull）
+  在 Github Desktop 页面点击 Fetch origin 按钮以刷新查看仓库内容有无更新；
+  在线上仓库内容发生变动的情况下，刷新后
