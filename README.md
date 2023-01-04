@@ -13,11 +13,11 @@
   点击Clone按钮即可将仓库内容同步到本地。
 
 ### 3. 文件上传（push）
-  由于本项目参与者不涉及共同开发，统一使用master分支上传文件。 
-  需要确认Github网页和Desktop软件对应位置选择的是master分支。 
+  由于本项目参与者不涉及共同开发，统一使用master分支上传文件，需要确认Github网页和Desktop软件对应位置选择的是master分支；
+  协作者无论在本地还是网站，应只修改自己文件夹中的内容，避免更改他人代码或造成版本冲突。
   
+  <img width="896" alt="image" src="https://user-images.githubusercontent.com/102509476/210514328-fdd7bd71-2be0-44fb-931a-0ce45113b132.png">
   <img width="568" alt="image" src="https://user-images.githubusercontent.com/102509476/210514027-f525e018-4b3e-4080-99a0-9c446a01d4e9.png">
-
 
 #### 3.1 本地修改
   在本地创建或修改文件后，Github Desktop 中将自动出现修改内容，可在页面左下角填写本次修改的主要内容和描述，点击 Commit to master 
