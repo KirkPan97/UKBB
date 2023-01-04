@@ -7,7 +7,7 @@
     
 ### 2. 关联本地仓库
   打开 Github Dsktop 软件，依次选择 File -> Clone repository；  
-  选择Github.com选项卡，在第一个地址栏填写本仓库网址（https://github.com/KirkPan97/UKBB/） 、在Local path地址栏填写本地仓库存放地址；
+  选择Github.com选项卡，在第一个地址栏填写本仓库网址（https://github.com/KirkPan97/UKBB/ ） 、在Local path地址栏填写本地仓库存放地址；
   
   <img width="381" alt="image" src="https://user-images.githubusercontent.com/102509476/210510974-27df51e6-c63b-4e80-8ba8-76b2e16474eb.png">
   点击Clone按钮即可将仓库内容同步到本地。
@@ -16,7 +16,7 @@
   由于本项目参与者不涉及共同开发，统一使用master分支上传文件，需要确认Github网页和Desktop软件对应位置选择的是master分支；
   协作者无论在本地还是网站，应只修改自己文件夹中的内容，避免更改他人代码或造成版本冲突。
   
-  <img width="896" alt="image" src="https://user-images.githubusercontent.com/102509476/210514328-fdd7bd71-2be0-44fb-931a-0ce45113b132.png">
+  <img width="734" alt="image" src="https://user-images.githubusercontent.com/102509476/210517762-0b309d20-5a7a-4b97-ac34-b94f58692b27.png">
   <img width="563" alt="image" src="https://user-images.githubusercontent.com/102509476/210515407-da8b9eb8-45b6-42ea-a4d3-8126a585debd.png">
 
 #### 3.1 本地修改
