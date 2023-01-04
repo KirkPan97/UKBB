@@ -2,11 +2,15 @@
 ### Github仓库使用方式和管理规范
 
 #### 1. 软件和网络要求
-  推荐使用 Github Desktop 软件进行操作，相比使用 Git 命令操作交互性更强，更易上手。
+  推荐使用 Github Desktop 软件进行操作，相比使用 Git 命令操作有更好的交互性。
   Github Desktop 软件下载：https://desktop.github.com/
   
+  
 #### 2. 创建本地仓库
+  打开 Github Dsktop 软件，依次选择 File -> Clone repository
+  <img width="382" alt="image" src="https://user-images.githubusercontent.com/102509476/210510657-999ddd75-c847-4302-9443-7b3e11d30994.png">
 
+  
 #### 3. 文件上传（push）
 
 #### 4. 文件下载（pull）
