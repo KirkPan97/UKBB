@@ -15,7 +15,7 @@
 
 
 ### 3. 文件上传（push）
-  由于本项目参与者不涉及共同开发，统一使用master分支上传文件，需要确认Github网页和Desktop软件对应位置选择的是master分支；
+  由于本项目参与者不涉及共同开发，统一使用master分支上传文件，需要确认Github网页和Desktop软件对应位置选择的是master分支；  
   协作者无论在本地还是网站，应只修改自己文件夹中的内容，避免更改他人代码或造成版本冲突。
   
   <img width="734" alt="image" src="https://user-images.githubusercontent.com/102509476/210517762-0b309d20-5a7a-4b97-ac34-b94f58692b27.png">
